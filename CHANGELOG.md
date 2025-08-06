@@ -1,3 +1,6 @@
+# Wednesday, August 6. 2025
+✔️ Field `stream` was added to object type `Stations`
+
 # Friday, June 20, 2025
 ✔️ Type `ProgressionData` was added
 
